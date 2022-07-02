@@ -6,17 +6,6 @@ de Programación I:
 
 
 
-## Concepto
-
-What did you learn while building this project? What challenges did you face and how did you overcome them?
-
-
-## Características Principales
-- Additional browser support
-
-- Add more integrations
-
-
 ## Lenguaje usado
 C++
 
@@ -31,9 +20,9 @@ C++
 Este proyecto fue realizado en colaboración de los alumnos:
 
 - Ayquipa Ubaldo Abraham Israel - U202218475
-- Integrante 2
-- Integrante 3
-- Integrante 4
-
+- Carbajal Rojas Andres Eduardo - U202218811
+- Quintana Noa Jimena Alexsandra - U20201f576
+- Mora evangelista Fernando Fausto - U20221c330
+- Rojas Cuadros Fabian Marcelo - U202218498
 
 
