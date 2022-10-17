@@ -1,24 +1,30 @@
+<br />
+<div align="center">
+  <a href="https://github.com/AbrahamAyquipa/proyectoFinalProgramaciónI">
+    <img src="./logo.png" height = "120", width = "105">
+  </a>
 
-# Trabajo Final - Programación I
+  <h1 align="center">Trabajo Final - Programación I</h1>
 
-En la presente se documentará todo el codigo necesario para el proyecto del Curso 
-de Programación I:
+  <p align="center">
+   En la presente se documentará todo el codigo necesario para el proyecto del curso de Programación I.
+  </p>
+</div>
 
-## Lenguaje usado
+## Language used
+
 C++
-
-## Screenshots
-
-![App Screenshot](https://images.unsplash.com/photo-1619410283995-43d9134e7656?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
 
 ## Integrantes
 
 Este proyecto fue realizado en colaboración de los alumnos:
 
-- Ayquipa Ubaldo Abraham Israel - U202218475
-- Carbajal Rojas Andres Eduardo - U202218811
-- Quintana Noa Jimena Alexsandra - U20201f576
-- Mora evangelista Fernando Fausto - U20221c330
-- Rojas Cuadros Fabian Marcelo - U202218498
+- Ayquipa Ubaldo Abraham Israel 
+- Carbajal Rojas Andres Eduardo 
+- Quintana Noa Jimena Alexsandra 
+- Mora evangelista Fernando Fausto 
+- Rojas Cuadros Fabian Marcelo 
 
+## Screenshots
 
+![App Screenshot](https://images.unsplash.com/photo-1619410283995-43d9134e7656?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
