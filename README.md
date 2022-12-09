@@ -1,23 +1,24 @@
 <br />
 <div align="center">
-  <a href="https://github.com/AbrahamAyquipa/proyectoFinalProgramaciónI">
+  <a href="https://github.com/AbrahamAyquipa/final-project-programming-I">
     <img src="./logo.png" height = "120", width = "105">
   </a>
 
-  <h1 align="center">Trabajo Final - Programación I</h1>
+  <h1 align="center">Final project programming I</h1>
 
   <p align="center">
-   En la presente se documentará todo el codigo necesario para el proyecto del curso de Programación I.
+  This document will document all the code necessary for the Programming I course project.
   </p>
 </div>
 
-## Language used
+## Language used: 
+![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+## Operating system: 
+![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-C++
+## Members
 
-## Integrantes
-
-Este proyecto fue realizado en colaboración de los alumnos:
+This project was carried out in collaboration with:
 
 - Ayquipa Ubaldo Abraham Israel 
 - Carbajal Rojas Andres Eduardo 
