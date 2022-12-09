@@ -1,8 +1,6 @@
 <br />
 <div align="center">
-  <a href="https://github.com/AbrahamAyquipa/final-project-programming-I">
-    <img src="./logo.png" height = "120", width = "105">
-  </a>
+  <img src="./logo.png" height = "120", width = "105">
   <h1 align="center">Final project programming I</h1>
   <p align="center">
   This document will document all the code necessary for the Programming I course project.
